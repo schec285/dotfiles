@@ -6,4 +6,6 @@ HISTSIZE=100000
 # source path/key-bindings.bash
 
 ####### エイリアス ######
-# alias fzfp='fzf --preview "cat {}" --preview-window=up:30%'
+# fzfでプレビューウィンドウを使う
+# alias fzfp='fzf --preview "cat {}" --preview-window=up:30% --color:border=#ffff00'
+
