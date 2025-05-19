@@ -16,5 +16,8 @@ function f-history() {
 
 function e() {
     path=$1
-    explorer "$(cygpath -w $path)"
+    if [[ ! -d $1 ]]; then
+        path=$(dirname $path)
+    fi
+    explorer $(cygpath -w $path)
 }
