@@ -7,6 +7,7 @@ HISTSIZE=100000
 
 # zoxide設定
 ## eval "$(zoxide init bash)"
+## _ZO_ECHO='1'
 
 ####### エイリアス ######
 # fzfでプレビューウィンドウを使う
