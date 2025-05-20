@@ -4,9 +4,13 @@
 
 次のツールをインストールします。
 
+-fd
 - fzf
-  - `key-bindings.bash`のパスを指定すること
-
+  - .bashrcなどで`key-bindings.bash`のパスを指定すること
+- zoxide
+- ripgrep
+- bat
+- 
 ## .vimrc
 
 なし
