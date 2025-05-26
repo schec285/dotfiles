@@ -6,8 +6,8 @@ HISTSIZE=100000
 ## source path/key-bindings.bash
 
 # zoxide設定
+## export _ZO_ECHO='1'
 ## eval "$(zoxide init bash)"
-## _ZO_ECHO='1'
 
 ####### エイリアス ######
 # fzfでプレビューウィンドウを使う
